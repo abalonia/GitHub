@@ -1,0 +1,173 @@
+{
+ 
+ "img": "logos/ictgrup_logo.png",
+ 
+ "children": [
+{
+   "name": "Web",
+   "size": 40000,
+   "children": [
+    {
+      "name": "", 
+      "img":  "logos/nodejs.png",
+	  "class": "Web Server Administration",
+      "size": 10
+    },
+   
+    {
+      
+      "name": "Apache",
+      "img":  "logos/apache.png",
+	  "class": "Web Server Administration",
+      "size": 10
+    },
+	{
+      
+      "name": "",
+      "img":  "logos/iis.png",
+	  "class": "Web Server Administration",
+      "size": 10
+    }
+  ]
+  },
+{
+   "name": "GIS",
+    "size": 40000,
+   "children": [
+    {
+      
+      "name": "ESRI ArcGIS", 
+      "img":  "logos/esri.png",
+	  "class": "Geographic Information Systems",
+      "size": 10
+    },
+   
+    {
+      
+    
+      "img":  "logos/osgeo.png",
+	   "class": "Geographic Information Systems",
+      "size": 10
+    },
+	{
+     
+    
+      "img":  "logos/mapbox.png",
+	  "class": "Geographic Information Systems",
+      "size": 10
+    },
+	{
+     
+      "name": "Google Maps", 
+      "img":  "logos/google.png",
+	  "class": "Mobile Application Dev",
+      "size": 10
+    }	
+   ]
+  },
+{
+   "name": "Mobile",
+    "size": 40000,
+   "children": [
+   
+    
+    {
+      
+      "name": "Cordova", 
+      "img":  "logos/cordova.png",
+	  "class": "Mobile Application Dev",
+      "size": 10
+    },
+	{
+      
+      
+      "img":  "logos/xamarin.png",
+	  "class": "Mobile Application Dev",
+      "size": 10
+    },
+	{
+      
+      
+      "img":  "logos/ionic.png",
+	  "class": "Mobile Application Dev",
+      "size": 10
+    }	
+   ]
+  },
+
+{
+   "name": "Database",
+    "size": 40000,
+   "children": [
+    {
+     
+      "name": "PostgreSQL", 
+      "img":  "logos/postgres.png",
+      "size": 10
+    },
+    {
+     
+   
+      "class": "Database",
+      "img":  "logos/oracle.png",
+      "size": 10
+    },
+    {
+    
+    
+      "class": "Database",
+      "img":  "logos/mssql.png",
+      "size": 10
+    },
+    {
+     
+     
+      "class": "Database",
+      "img":  "logos/mongo.png",
+      "size": 10
+    }
+   ]
+  },
+{
+   "name": "Surveying & Mapping",
+    "size": 40000,
+   "children": [
+    {
+     
+      "name": "UAS Survey", 
+      "class": "Surveying & Mapping",
+      "img":  "logos/uav.png",
+      "size": 10
+    },
+    {
+     
+      "name": "Ground Survey", 
+      "class": "Surveying & Mapping",
+      "img":  "logos/survey.png",
+      "size": 10
+    }
+    
+   ]
+  },
+{
+   "name": "Data",
+    "size": 40000,
+   "children": [
+    {
+  
+      "name": "Pipeline ETL", 
+      "class": "Data Science",
+      "img":  "logos/fme.png",
+      "size": 10
+    },
+    {
+   
+      "name": "Analytics", 
+      "class": "Data Science",
+      "img":  "logos/analytics.png",
+      "size": 10
+    }
+   ]
+  }    
+ ]
+}
